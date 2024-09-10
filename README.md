@@ -6,7 +6,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 ## Architecture
 
-![Project Architecture](https://github.com/AbhishekTheCoder00/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/blob/main/Architecture%20Diagram.jpg)
+![Project Architecture](https://github.com/aniketandhale08/Uber-Data-Analytics-Data-Engineering-with-GCP/blob/main/Architecture%20Diagram.jpg)
 
 ## Technology Used
 
@@ -22,14 +22,14 @@ The goal of this project is to perform data analytics on Uber data using various
 
 The project uses the TLC Trip Record Data, which contains Yellow and green taxi trip records. It includes fields capturing pick-up and drop-off dates/times, locations, distances, fares, rate types, payment types, and passenger counts.
 
-- [Dataset Link](https://github.com/AbhishekTheCoder00/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/blob/main/Uber%20Data.csv)
+- [Dataset Link](https://github.com/aniketandhale08/Uber-Data-Analytics-Data-Engineering-with-GCP/blob/main/Uber%20Data.csv)
 - More information about the dataset:
   - [Website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
   - [Data Dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
 
 ## Data Model
 
-![Data Model](https://github.com/AbhishekTheCoder00/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/blob/main/Uber%20Data%20Model.jpeg)
+![Data Model](https://github.com/aniketandhale08/Uber-Data-Analytics-Data-Engineering-with-GCP/blob/main/Uber%20Data%20Model.jpeg)
 
 ## Project Workflow
 
