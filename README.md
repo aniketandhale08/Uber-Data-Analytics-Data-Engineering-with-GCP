@@ -29,32 +29,35 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 ## Data Model
 ![Uber Data Model](https://github.com/user-attachments/assets/6b5e8f5c-d120-4ff3-bf9c-d52c1a7a57cf)
 
+## Features
+- Data preprocessing and transformation using Python and Pandas.
+- Creation of a robust data pipeline using Mage.
+- Deployment on Google Cloud Platform for scalability.
+- Comprehensive analytics using BigQuery.
+- Interactive dashboards built in Looker Studio for data visualization.
+- 
 ## Project Workflow
 
 ### Step 1: Data Preprocessing and Model Building
-
 1. Review the data dictionary.
 2. Open Jupyter Notebook to read CSV data.
-3. Create a data model with fact and dimension tables.(using lucid.app)
+3. Create a data model with fact and dimension tables (using lucid.app).
 4. Use the `info` function to check data types.
 5. Convert date columns to a standard format.
 6. Write data transformation code.
 7. Merge data into the fact table.
 
 ### Step 2: Google Cloud Setup
-
 1. Create a Google Cloud storage bucket.
 2. Create a VM instance with the required configuration, including SSH access.
 3. Run setup commands from `command.txt`.
 
 ### Step 3: GCP Integration
-
 1. Check if the project is running on your external IP address.
 2. Write code for data loading, transformation, and exporting.
 3. Create a GCP service account, download the JSON key, and configure the `io_config.yaml` file for GCP connectivity.
 
 ### Step 4: BigQuery Integration
-
 1. Open BigQuery, create a multi-region dataset, and resolve any errors.
 2. Load all cleaned tables into BigQuery.
 
@@ -66,4 +69,10 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 2. Use Looker to generate reports, connecting to BigQuery and adding the `table_analysis` table.
 3. Create visualizations and reports using various charts and controls.
 
-This project aims to provide insights into Uber data through comprehensive data analytics. For a detailed explanation of each step and further project updates, please refer to the GitHub repository.
+## Conclusion
+This project was a significant learning experience that enhanced my skills in data engineering and analytics. I gained hands-on experience with GCP services, data modeling, and visualization techniques. Moving forward, I plan to explore more advanced analytics techniques and improve the dashboard's interactivity.
+
+## Connect with Me
+Feel free to reach out if you have any questions or want to discuss data analytics:
+- [LinkedIn](https://www.linkedin.com/in/aniketandhale08/)
+  
