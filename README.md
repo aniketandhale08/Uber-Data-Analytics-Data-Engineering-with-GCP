@@ -5,8 +5,7 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including Google Cloud Platform (GCP) services like Google Storage, Compute Instance, BigQuery, and Looker Studio. Additionally, a modern data pipeline tool, [Mage Data Pipeline Tool](https://www.mage.ai/), will be utilized.
 
 ## Architecture
-
-![Project Architecture](https://github.com/aniketandhale08/Uber-Data-Analytics-Data-Engineering-with-GCP/blob/main/Architecture%20Diagram.jpg)
+![Project Architecture](https://github.com/user-attachments/assets/ff46c073-d972-4184-9b8f-5f13aa39fafc)
 
 ## Technology Used
 
@@ -28,8 +27,7 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
   - [Data Dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
 
 ## Data Model
-
-![Data Model](https://github.com/aniketandhale08/Uber-Data-Analytics-Data-Engineering-with-GCP/blob/main/Uber%20Data%20Model.jpeg)
+![Uber Data Model](https://github.com/user-attachments/assets/6b5e8f5c-d120-4ff3-bf9c-d52c1a7a57cf)
 
 ## Project Workflow
 
@@ -61,6 +59,8 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 2. Load all cleaned tables into BigQuery.
 
 ### Step 5: Visualization and Reporting
+
+![looker dashboard](https://github.com/user-attachments/assets/1c3c21aa-7b1f-44f5-86a7-27c45ae76344)
 
 1. Apply SQL queries to join tables and create the `table_analysis`.
 2. Use Looker to generate reports, connecting to BigQuery and adding the `table_analysis` table.
