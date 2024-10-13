@@ -35,7 +35,7 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 - Deployment on Google Cloud Platform for scalability.
 - Comprehensive analytics using BigQuery.
 - Interactive dashboards built in Looker Studio for data visualization.
-- 
+  
 ## Project Workflow
 
 ### Step 1: Data Preprocessing and Model Building
