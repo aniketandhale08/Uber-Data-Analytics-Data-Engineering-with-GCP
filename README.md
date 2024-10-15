@@ -65,6 +65,8 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 
 ![looker dashboard](https://github.com/user-attachments/assets/1c3c21aa-7b1f-44f5-86a7-27c45ae76344)
 
+[View looker dashboard](https://lookerstudio.google.com/u/0/reporting/03c1a20b-57e4-441a-b52d-f7b6a2de73d3/page/iYIFE)
+
 1. Apply SQL queries to join tables and create the `table_analysis`.
 2. Use Looker to generate reports, connecting to BigQuery and adding the `table_analysis` table.
 3. Create visualizations and reports using various charts and controls.
